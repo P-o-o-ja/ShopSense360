@@ -1,4 +1,4 @@
-# Customer Shopping Behavior Analysis
+# Shopsense360 - Ecommerce Analytics
 
 ## Project Overview
 
